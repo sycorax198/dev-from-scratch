@@ -83,7 +83,7 @@ Bookmarks:
 
 ## Conceptos
 
-0. [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
+0. [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=oV9rvDllKEg)
 1. [Let’s talk about logging | Dave Cheney](https://dave.cheney.net/2015/11/05/lets-talk-about-logging)
 2. [Go Proverbs - Rob Pike - Gopherfest](https://www.youtube.com/watch?v=PAAkCSZUG1c)
 3. [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY)
