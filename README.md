@@ -83,9 +83,9 @@ Bookmarks:
 
 ## Conceptos
 
-0. [ ] [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=oV9rvDllKEg)
+0. [x] [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=oV9rvDllKEg)
 1. [ ] [Let’s talk about logging | Dave Cheney](https://dave.cheney.net/2015/11/05/lets-talk-about-logging)
-2. [ ] [Go Proverbs - Rob Pike - Gopherfest](https://www.youtube.com/watch?v=PAAkCSZUG1c)
+2. [x] [Go Proverbs - Rob Pike - Gopherfest](https://www.youtube.com/watch?v=PAAkCSZUG1c)
 3. [ ] [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY)
 4. [ ] [Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
 5. [ ] [GopherCon 2019 Lightning Talk: Jessica Xie - How Not to DDOS Servers](https://www.youtube.com/watch?v=dT223YYT940)
